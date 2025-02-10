@@ -1,0 +1,1 @@
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu transformers==4.36.2 langchain chromadb sentence-transformers streamlit langchain_community pypdf gradio
